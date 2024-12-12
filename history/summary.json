@@ -4,15 +4,15 @@
     "url": "https://bos-fahrzeuge.info/",
     "icon": "https://icons.duckduckgo.com/ip3/bos-fahrzeuge.info.ico",
     "slug": "bos-fahrzeug-info",
-    "status": "up",
-    "uptime": "95.61%",
-    "uptimeDay": "89.71%",
+    "status": "down",
+    "uptime": "95.64%",
+    "uptimeDay": "89.70%",
     "uptimeWeek": "94.51%",
     "uptimeMonth": "94.04%",
-    "uptimeYear": "95.61%",
+    "uptimeYear": "95.64%",
     "time": 2097,
-    "timeDay": 1287,
-    "timeWeek": 1349,
+    "timeDay": 1263,
+    "timeWeek": 1360,
     "timeMonth": 2119,
     "timeYear": 2097,
     "dailyMinutesDown": {
@@ -76,8 +76,7 @@
       "2024-10-06": 50,
       "2024-10-05": 79,
       "2024-10-04": 90,
-      "2024-10-03": 181,
-      "2024-10-02": 21
+      "2024-10-03": 181
     }
   }
 ]
