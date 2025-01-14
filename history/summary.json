@@ -6,17 +6,17 @@
     "slug": "bos-fahrzeug-info",
     "status": "up",
     "uptime": "97.56%",
-    "uptimeDay": "92.79%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "94.68%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "97.56%",
-    "time": 1982,
-    "timeDay": 1604,
-    "timeWeek": 1290,
-    "timeMonth": 1709,
-    "timeYear": 1982,
+    "time": 1981,
+    "timeDay": 1239,
+    "timeWeek": 1296,
+    "timeMonth": 1708,
+    "timeYear": 1981,
     "dailyMinutesDown": {
-      "2025-01-13": 104,
+      "2025-01-13": 93,
       "2025-01-12": 39,
       "2025-01-11": 87,
       "2025-01-09": 46,
@@ -69,7 +69,8 @@
       "2024-11-22": 34,
       "2024-11-21": 109,
       "2024-11-20": 78,
-      "2024-11-19": 100
+      "2024-11-19": 100,
+      "2024-11-18": 15
     }
   }
 ]
