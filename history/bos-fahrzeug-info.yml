@@ -1,7 +1,7 @@
 url: https://bos-fahrzeuge.info/
-status: up
-code: 200
-responseTime: 1425
-lastUpdated: 2025-01-29T03:24:59.812Z
+status: down
+code: 500
+responseTime: 755
+lastUpdated: 2025-01-29T06:12:01.140Z
 startTime: 2024-09-04T16:17:04.695Z
 generator: Upptime <https://github.com/upptime/upptime>
