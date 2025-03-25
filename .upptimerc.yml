@@ -5,7 +5,7 @@ repo: Uptime # The name of this repository
 sites:
   - name: BOS Fahrzeug Info
     url: https://bos-fahrzeuge.info/
-    name: IServ
+  - name: IServ
     url: https://kgsgronau.de/
  
 status-website:
