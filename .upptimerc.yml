@@ -7,6 +7,8 @@ sites:
     url: https://bos-fahrzeuge.info/
   - name: IServ
     url: https://kgsgronau.de/
+  - name: Stud.IP NLBK
+    url: https://www.studip.nlbk.niedersachsen.de/
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
