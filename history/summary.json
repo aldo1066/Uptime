@@ -82,19 +82,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kgsgronau.de.ico",
     "slug": "i-serv",
     "status": "up",
-    "uptime": "1.87%",
-    "uptimeDay": "1.87%",
-    "uptimeWeek": "1.87%",
-    "uptimeMonth": "1.87%",
-    "uptimeYear": "1.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1393,
     "timeDay": 1393,
     "timeWeek": 1393,
     "timeMonth": 1393,
     "timeYear": 1393,
-    "dailyMinutesDown": {
-      "2025-03-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stud.IP NLBK",
