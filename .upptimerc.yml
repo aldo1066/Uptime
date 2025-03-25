@@ -6,7 +6,7 @@ sites:
   - name: BOS Fahrzeug Info
     url: https://bos-fahrzeuge.info/
   - name: IServ
-    url: https://kgsgronau.de/
+    url: http://kgsgronau.de/
   - name: Stud.IP NLBK
     url: https://www.studip.nlbk.niedersachsen.de/
  
