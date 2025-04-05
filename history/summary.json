@@ -6,17 +6,17 @@
     "slug": "bos-fahrzeug-info",
     "status": "up",
     "uptime": "98.13%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "97.28%",
-    "uptimeMonth": "91.29%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "91.32%",
     "uptimeYear": "98.13%",
-    "time": 2012,
-    "timeDay": 5200,
-    "timeWeek": 2548,
-    "timeMonth": 2447,
-    "timeYear": 2012,
+    "time": 2011,
+    "timeDay": 5562,
+    "timeWeek": 2523,
+    "timeMonth": 2446,
+    "timeYear": 2011,
     "dailyMinutesDown": {
-      "2025-04-04": 53,
+      "2025-04-04": 42,
       "2025-04-03": 27,
       "2025-04-02": 36,
       "2025-03-31": 94,
@@ -71,7 +71,7 @@
       "2025-02-06": 50,
       "2025-02-05": 113,
       "2025-02-04": 98,
-      "2025-02-03": 23
+      "2025-02-03": 46
     }
   },
   {
@@ -80,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kgsgronau.de.ico",
     "slug": "i-serv",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "95.47%",
     "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 1099,
-    "timeDay": 1150,
-    "timeWeek": 1070,
-    "timeMonth": 1099,
-    "timeYear": 1099,
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 1081,
+    "timeDay": 1006,
+    "timeWeek": 1029,
+    "timeMonth": 1081,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-04-04": 65
     }
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 915,
-    "timeWeek": 828,
-    "timeMonth": 829,
-    "timeYear": 829,
+    "time": 816,
+    "timeDay": 640,
+    "timeWeek": 816,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {}
   }
 ]
