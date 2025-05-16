@@ -11,7 +11,7 @@ sites:
     url: https://www.studip.nlbk.niedersachsen.de/
   - name: Jellyfin
     url: https://jelly.braunschweiger.info/
-  - name: Stud.IP NLBK
+  - name: Jellyseerr
     url: https://jellyseerr.braunschweiger.info/
  
 status-website:
