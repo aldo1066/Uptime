@@ -9,6 +9,10 @@ sites:
     url: https://kgsgronau.de/iserv
   - name: Stud.IP NLBK
     url: https://www.studip.nlbk.niedersachsen.de/
+  - name: Jellyfin
+    url: https://jelly.braunschweiger.info/
+  - name: Stud.IP NLBK
+    url: https://jellyseerr.braunschweiger.info/
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
