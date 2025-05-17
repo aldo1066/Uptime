@@ -4,15 +4,15 @@
     "url": "https://bos-fahrzeuge.info/",
     "icon": "https://icons.duckduckgo.com/ip3/bos-fahrzeuge.info.ico",
     "slug": "bos-fahrzeug-info",
-    "status": "up",
-    "uptime": "96.41%",
-    "uptimeDay": "26.21%",
-    "uptimeWeek": "51.13%",
-    "uptimeMonth": "69.90%",
-    "uptimeYear": "96.41%",
+    "status": "down",
+    "uptime": "96.44%",
+    "uptimeDay": "36.95%",
+    "uptimeWeek": "51.29%",
+    "uptimeMonth": "70.11%",
+    "uptimeYear": "96.44%",
     "time": 2268,
-    "timeDay": 6996,
-    "timeWeek": 3681,
+    "timeDay": 8887,
+    "timeWeek": 3826,
     "timeMonth": 3661,
     "timeYear": 2268,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
       "2025-04-21": 235,
       "2025-04-20": 40,
       "2025-04-19": 19,
-      "2025-04-18": 117
+      "2025-04-18": 24
     }
   },
   {
@@ -94,18 +94,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.braunschweiger.info.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "89.35%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "89.35%",
+    "uptimeYear": "89.35%",
     "time": 641,
     "timeDay": 536,
     "timeWeek": 641,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-05-17": 0
+      "2025-05-17": 237
     }
   },
   {
@@ -114,18 +114,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.braunschweiger.info.ico",
     "slug": "jellyseerr",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "87.88%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "87.88%",
+    "uptimeYear": "87.88%",
     "time": 783,
     "timeDay": 650,
     "timeWeek": 783,
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2025-05-17": 0
+      "2025-05-17": 237
     }
   }
 ]
