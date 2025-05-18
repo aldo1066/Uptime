@@ -4,15 +4,15 @@
     "url": "https://bos-fahrzeuge.info/",
     "icon": "https://icons.duckduckgo.com/ip3/bos-fahrzeuge.info.ico",
     "slug": "bos-fahrzeug-info",
-    "status": "up",
-    "uptime": "96.37%",
-    "uptimeDay": "50.57%",
-    "uptimeWeek": "51.94%",
-    "uptimeMonth": "69.47%",
-    "uptimeYear": "96.37%",
+    "status": "down",
+    "uptime": "96.38%",
+    "uptimeDay": "75.26%",
+    "uptimeWeek": "52.44%",
+    "uptimeMonth": "69.51%",
+    "uptimeYear": "96.38%",
     "time": 2265,
     "timeDay": 1257,
-    "timeWeek": 3766,
+    "timeWeek": 3838,
     "timeMonth": 3647,
     "timeYear": 2265,
     "dailyMinutesDown": {
@@ -44,8 +44,7 @@
       "2025-04-23": 196,
       "2025-04-22": 143,
       "2025-04-21": 235,
-      "2025-04-20": 40,
-      "2025-04-19": 19
+      "2025-04-20": 40
     }
   },
   {
@@ -94,18 +93,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.braunschweiger.info.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "69.87%",
-    "uptimeDay": "40.38%",
-    "uptimeWeek": "69.87%",
-    "uptimeMonth": "69.87%",
-    "uptimeYear": "69.87%",
+    "uptime": "62.11%",
+    "uptimeDay": "15.69%",
+    "uptimeWeek": "62.11%",
+    "uptimeMonth": "62.11%",
+    "uptimeYear": "62.11%",
     "time": 558,
     "timeDay": 231,
     "timeWeek": 558,
     "timeMonth": 558,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-05-18": 393,
+      "2025-05-18": 748,
       "2025-05-17": 466
     }
   },
@@ -115,18 +114,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.braunschweiger.info.ico",
     "slug": "jellyseerr",
     "status": "down",
-    "uptime": "66.70%",
-    "uptimeDay": "40.39%",
-    "uptimeWeek": "66.70%",
-    "uptimeMonth": "66.70%",
-    "uptimeYear": "66.70%",
+    "uptime": "58.61%",
+    "uptimeDay": "15.69%",
+    "uptimeWeek": "58.61%",
+    "uptimeMonth": "58.61%",
+    "uptimeYear": "58.61%",
     "time": 653,
     "timeDay": 249,
     "timeWeek": 653,
     "timeMonth": 653,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-05-18": 393,
+      "2025-05-18": 748,
       "2025-05-17": 466
     }
   }
