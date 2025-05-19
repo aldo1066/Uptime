@@ -1,7 +1,7 @@
 url: https://jellyseerr.braunschweiger.info/
-status: up
-code: 200
-responseTime: 958
-lastUpdated: 2025-05-18T23:00:31.505Z
+status: down
+code: 502
+responseTime: 567
+lastUpdated: 2025-05-19T05:46:57.649Z
 startTime: 2025-05-16T11:35:00.098Z
 generator: Upptime <https://github.com/upptime/upptime>
