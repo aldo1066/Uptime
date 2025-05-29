@@ -1,7 +1,7 @@
 url: https://jelly.braunschweiger.info/
-status: up
-code: 200
-responseTime: 577
-lastUpdated: 2025-05-29T10:29:19.166Z
+status: down
+code: 502
+responseTime: 1795
+lastUpdated: 2025-05-29T12:18:23.326Z
 startTime: 2025-05-16T07:03:50.305Z
 generator: Upptime <https://github.com/upptime/upptime>
