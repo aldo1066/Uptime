@@ -4,9 +4,9 @@
     "url": "https://bos-fahrzeuge.info/",
     "icon": "https://icons.duckduckgo.com/ip3/bos-fahrzeuge.info.ico",
     "slug": "bos-fahrzeug-info",
-    "status": "up",
+    "status": "down",
     "uptime": "95.98%",
-    "uptimeDay": "76.89%",
+    "uptimeDay": "76.88%",
     "uptimeWeek": "84.34%",
     "uptimeMonth": "74.35%",
     "uptimeYear": "95.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 3559,
     "timeYear": 2386,
     "dailyMinutesDown": {
+      "2025-06-16": 0,
       "2025-06-15": 333,
       "2025-06-14": 249,
       "2025-06-13": 66,
@@ -53,7 +54,7 @@
       "2025-05-11": 521,
       "2025-05-10": 647,
       "2025-05-09": 560,
-      "2025-05-08": 270
+      "2025-05-08": 240
     }
   },
   {
@@ -134,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.braunschweiger.info.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "96.48%",
+    "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.47%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.49%",
     "time": 849,
     "timeDay": 1228,
     "timeWeek": 1016,
