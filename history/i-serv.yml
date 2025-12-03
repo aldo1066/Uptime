@@ -1,7 +1,7 @@
 url: https://kgsgronau.de/iserv
-status: up
-code: 200
-responseTime: 1191
-lastUpdated: 2025-12-02T23:44:29.788Z
+status: down
+code: 503
+responseTime: 851
+lastUpdated: 2025-12-03T03:32:39.506Z
 startTime: 2025-03-25T17:18:51.459Z
 generator: Upptime <https://github.com/upptime/upptime>
